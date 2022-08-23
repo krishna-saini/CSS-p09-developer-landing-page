@@ -29,8 +29,8 @@ Users should be able to:
 ![](./images/screen-shots/9.png)
 
 ### Links
--  [Solution URL:](https://github.com/krishna-saini/P07--Product-Home-Page)
--  [Live Site URL:](https://product-home-page-by-krishna-saini.netlify.app/)
+-  [Solution URL:](https://github.com/krishna-saini/CSS-p09-developer-landing-page)
+-  [Live Site URL:](https://developer-landing-page-by-krishna-saini.netlify.app/)
 
 ## My process
 
